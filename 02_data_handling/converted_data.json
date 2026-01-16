@@ -1,0 +1,62 @@
+[
+  {
+    "name": "numpy",
+    "version": "1.26.4",
+    "category": "Scientific Computing",
+    "description": "Fundamental package for numerical computations in Python"
+  },
+  {
+    "name": "pandas",
+    "version": "2.2.0",
+    "category": "Data Analysis",
+    "description": "Data manipulation and analysis library"
+  },
+  {
+    "name": "matplotlib",
+    "version": "3.8.2",
+    "category": "Data Visualization",
+    "description": "Plotting library for creating static and interactive charts"
+  },
+  {
+    "name": "requests",
+    "version": "2.31.0",
+    "category": "Networking",
+    "description": "Simple and elegant HTTP library"
+  },
+  {
+    "name": "fastapi",
+    "version": "0.110.0",
+    "category": "Web Framework",
+    "description": "High-performance API framework for building backend services"
+  },
+  {
+    "name": "flask",
+    "version": "3.0.0",
+    "category": "Web Framework",
+    "description": "Lightweight web framework for small to medium applications"
+  },
+  {
+    "name": "scikit-learn",
+    "version": "1.4.0",
+    "category": "Machine Learning",
+    "description": "Tools for data mining and machine learning"
+  },
+  {
+    "name": "torch",
+    "version": "2.1.2",
+    "category": "Deep Learning",
+    "description": "Deep learning framework for research and production"
+  },
+  {
+    "name": "django",
+    "version": "5.0",
+    "category": "Web Framework",
+    "description": "Full-stack web framework for rapid development"
+  },
+  {
+    "name": "pytest",
+    "version": "8.0.0",
+    "category": "Testing",
+    "description": "Testing framework for writing simple and scalable test cases"
+  }
+]
