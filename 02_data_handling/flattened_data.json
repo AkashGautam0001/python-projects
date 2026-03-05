@@ -1,0 +1,12 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "address.street.number": 123,
+  "address.street.name": "Main St",
+  "address.city": "New York",
+  "address.state": "NY",
+  "address.zip": "10001",
+  "hobbies.0": "Hermione Granger",
+  "hobbies.1": "Harry Potter",
+  "hobbies.2": "Ron Weasley"
+}
